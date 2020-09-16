@@ -13,7 +13,7 @@ We realise everyone has different levels of skill and experience when it comes t
 There are some tasks that could be too big to implement, but you may also describe how you _would_ tackle them (given more time/resources) in the covering note of your submission.
 
 #### Basic Tasks
-* Create an API endpoint to Create and Read "Campaigns"
+* Create a REST API endpoint to Create and Read "Campaigns"
 * A Campaign is a pre-registration promotion for an igaming site and should consist of:
     * Unique ID
     * Title
@@ -25,7 +25,7 @@ There are some tasks that could be too big to implement, but you may also descri
 
 #### Intermediate Tasks
 * DB Migrations/Seed data _(it's ok not to actually create the DB, but please show you understand how it would be created and how the API would talk to it)_
-* Add Delete and Update operations to your endpoint
+* Add Update and Delete operations to your endpoint
 * Allow campaigns to be owned by different sites _(the site object doesn't need to be created, but assume it would be represented by some sort of id)_
 * Add some Unit/Functional/Integration tests
 * Store an image with the campaign
