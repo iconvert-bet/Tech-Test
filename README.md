@@ -47,7 +47,7 @@ There are some tasks that could be too big to implement, but you may also descri
 
 ## Languages
 
-We use a mixture of coding languages at iConvert but out APIs are built in PHP (specifically Laravel), our front-end uses Vuejs and our event streaming system uses NodeJS. But for this tech test we are looking to get a sense of how you code, so please use the language/framework/app/tool with which you feel most comfortable.
+We use a mixture of coding languages at iConvert but our APIs are built in PHP (specifically Laravel), our front-end uses Vuejs and our event streaming system uses NodeJS. But for this tech test we are looking to get a sense of how you code, so please use the language/framework/app/tool with which you feel most comfortable.
 
 ## The Deliverable
 
